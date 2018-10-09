@@ -1,4 +1,4 @@
-# conding: UTF-8
+# coding: UTF-8
 
 #
 # Trabalhando com numeros randomicos
