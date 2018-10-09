@@ -1,7 +1,7 @@
 # coding: UTF-8
 
 #
-# Usando o scape para sinais '
+# Usando o scape
 #
 
 'there\'s a snake in my boot' # correto
