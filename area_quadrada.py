@@ -1,7 +1,7 @@
 # coding: utf-8
 
 #
-# função que retorna a area quadr
+# função que retorna a area quadrada
 #
 
 def area_quadrada(comprimento, largura):
