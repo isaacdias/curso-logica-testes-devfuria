@@ -4,7 +4,7 @@
 # função que calcula juros simples de um empréstimo
 #
 def juros(capital, taxa, meses):
-	return capital * juros * meses
+    return capital * taxa * meses
 
 #
 # teste
