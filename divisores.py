@@ -1,5 +1,9 @@
 #coding: utf-8
 
+#
+# funcao que retorna os divisores
+#
+
 def divisor(num):
     cont = 1
     divisores = []
@@ -9,5 +13,8 @@ def divisor(num):
         cont += 1
     return divisores
 
+#
+# testes
+#
 
 assert [1, 2, 5, 10] == divisor(10)
